@@ -1,0 +1,6 @@
+mdtex2html
+pypinyin
+tiktoken
+tqdm
+Pygments
+markdown
